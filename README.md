@@ -8,7 +8,7 @@ Created with *create-react-app*.
 Try It
 ---
 
-[farmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+[calculador](https://ahfarmer.github.io/calculator/)
 
 
 
