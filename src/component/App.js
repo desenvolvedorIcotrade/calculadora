@@ -1,3 +1,7 @@
+{
+  "short_name": "Calculator",
+  "name": "React Calculator Example App"
+ A >= 9,0 B >= 7,5 e < 9,0 C >= 6,0 e < 7,5 D >= 4,0 e < 6,0 E < 4,0 
 import React from "react";
 import Display from "./Display";
 import ButtonPanel from "./ButtonPanel";
